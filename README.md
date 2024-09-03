@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=System+.+out+.+println+(+)+;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=System.out.println(+)+;">
   </a>
 </h1>
 <br/>
@@ -70,6 +70,6 @@
     alt="example" />
 </p>
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45"></a>
 </p> 
 
